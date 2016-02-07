@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mr-vist/backbone/issues"
   },
-  "homepage": "https://github.com/Mr-vist/backbone#readme"
+  "homepage": "https://github.com/Mr-vist/backbone#readme",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
 }
