@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Mr-vist/backbone#readme",
   "devDependencies": {
+    "jquery": "^2.2.0",
     "underscore": "^1.8.3"
   }
 }
